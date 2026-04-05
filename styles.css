@@ -1,0 +1,15 @@
+const els = document.querySelectorAll('[data-reveal]');
+const io = new IntersectionObserver((entries) => {
+  entries.forEach((entry) => {
+    if (entry.isIntersecting) {
+      entry.target.classList.add('revealed');
+      io.unobserve(entry.target);
+    }
+  });
+}, { threshold: 0.18, rootMargin: '0px 0px -8% 0px' });
+
+els.forEach((el) => io.observe(el));
+window.addEventListener('load', () => {
+  const first = document.querySelector('[data-reveal]');
+  if (first) setTimeout(() => first.classList.add('revealed'), 180);
+});
