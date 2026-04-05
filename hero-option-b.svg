@@ -1,0 +1,29 @@
+<svg width="1400" height="1100" viewBox="0 0 1400 1100" xmlns="http://www.w3.org/2000/svg" fill="none">
+<rect width="1400" height="1100" rx="40" fill="#07101A"/>
+<circle cx="230" cy="210" r="180" fill="#79F0D9" fill-opacity=".16"/>
+<circle cx="1160" cy="170" r="210" fill="#7AA8FF" fill-opacity=".16"/>
+<circle cx="1110" cy="760" r="220" fill="#79F0D9" fill-opacity=".10"/>
+
+<path d="M188 775c0-54 44-98 98-98h270c54 0 98 44 98 98v150c0 39-31 70-70 70H258c-39 0-70-31-70-70V775Z" fill="#EAF3FF" fill-opacity=".08" stroke="rgba(255,255,255,.24)"/>
+<rect x="244" y="600" width="354" height="92" rx="18" fill="#EAF3FF" fill-opacity=".13"/>
+<rect x="274" y="520" width="294" height="80" rx="18" fill="#EAF3FF" fill-opacity=".12"/>
+<rect x="286" y="736" width="278" height="134" rx="24" fill="#F8FCFF"/>
+<rect x="324" y="782" width="126" height="16" rx="8" fill="#18304A"/>
+<rect x="324" y="817" width="194" height="12" rx="6" fill="#607A97"/>
+<text x="324" y="884" fill="#07101A" font-family="Arial" font-size="42" font-weight="700">PYROX</text>
+<text x="324" y="927" fill="#58708B" font-family="Arial" font-size="22" font-weight="700">UNDERGROUND SYSTEM</text>
+
+<path d="M850 518c0-57 47-104 104-104h210c57 0 104 47 104 104v360c0 40-32 72-72 72H922c-40 0-72-32-72-72V518Z" fill="#EAF3FF" fill-opacity=".07" stroke="rgba(255,255,255,.22)"/>
+<rect x="906" y="352" width="304" height="88" rx="18" fill="#EAF3FF" fill-opacity=".12"/>
+<path d="M1050 164c17-36 67-36 84 0l70 152H980l70-152Z" fill="#EAF3FF" fill-opacity=".12"/>
+<path d="M1076 208c8-18 33-18 41 0l46 100h-133l46-100Z" fill="#79F0D9" fill-opacity=".16"/>
+<rect x="922" y="568" width="276" height="114" rx="22" fill="#F8FCFF"/>
+<rect x="958" y="608" width="120" height="16" rx="8" fill="#18304A"/>
+<rect x="958" y="642" width="180" height="12" rx="6" fill="#607A97"/>
+
+<circle cx="718" cy="428" r="172" stroke="rgba(255,255,255,.12)" stroke-width="2"/>
+<circle cx="718" cy="428" r="120" stroke="rgba(255,255,255,.10)" stroke-width="2"/>
+<circle cx="718" cy="428" r="68" stroke="rgba(255,255,255,.08)" stroke-width="2"/>
+<path d="M266 944c98-40 228-54 348-18" stroke="#79F0D9" stroke-opacity=".55" stroke-width="8" stroke-linecap="round"/>
+<path d="M890 904c114-38 232-42 348 10" stroke="#7AA8FF" stroke-opacity=".55" stroke-width="8" stroke-linecap="round"/>
+</svg>
