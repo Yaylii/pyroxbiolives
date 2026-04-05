@@ -1,0 +1,20 @@
+<svg width="1600" height="1100" viewBox="0 0 1600 1100" xmlns="http://www.w3.org/2000/svg">
+<rect width="1600" height="1100" fill="#0b0f1a"/>
+<circle cx="300" cy="200" r="180" fill="#00ffe1" opacity="0.15"/>
+<circle cx="1300" cy="300" r="200" fill="#4f7bff" opacity="0.12"/>
+
+<!-- Vial -->
+<rect x="600" y="300" width="400" height="500" rx="40" fill="#eaf3ff" opacity="0.08" stroke="white" stroke-opacity="0.2"/>
+<rect x="650" y="250" width="300" height="80" rx="20" fill="#eaf3ff" opacity="0.15"/>
+<rect x="650" y="450" width="300" height="200" rx="30" fill="#ffffff"/>
+<rect x="700" y="520" width="200" height="20" rx="10" fill="#1b2a3a"/>
+<rect x="700" y="560" width="160" height="14" rx="7" fill="#6b829e"/>
+
+<!-- Glow line -->
+<line x1="650" y1="720" x2="950" y2="720" stroke="#00ffe1" stroke-width="10" stroke-linecap="round" opacity="0.5"/>
+
+<!-- Text -->
+<text x="720" y="680" fill="#0b0f1a" font-size="42" font-weight="700">PYROX</text>
+<text x="720" y="730" fill="#6b829e" font-size="28">BIO SYSTEM</text>
+
+</svg>
